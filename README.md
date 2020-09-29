@@ -12,5 +12,6 @@
 
 # Execução do notebook 
 
-* Criação de ambiente conda a partir do arquivo .yml: conda env create -f spam.yml
-* Ativação do ambiente : conda activate spam
+* __Criação de ambiente conda a partir do arquivo .yml:__ conda env create -f spam.yml
+* __Ativação do ambiente:__ conda activate spam
+* __Dentro do diretório contendo os arquivo, execute:__ jupyter notebook
