@@ -2,11 +2,11 @@
 
 # Descrição dos arquivos
 
-* sms_senior.csv : Base de dados Fornecida contento exemplo de mensagens de email, spam e não spam.
-* spam.yml : ambiente conda exportado em arquivo .yml
-* spam_documentacao.pdf : documentação sobre o trabalho desenvolvido
-* SpamTratamentoEstatísticaClassificação.ipynb: Notebook contento análise e classificação das mensagens
-* stopwords.txt : Lista de Stopwors em inglês
+* __sms_senior.csv:__ Base de dados Fornecida contento exemplo de mensagens de email, spam e não spam.
+* __spam.yml:__ ambiente conda exportado em arquivo .yml
+* __spam_documentacao.pdf:__ documentação sobre o trabalho desenvolvido
+* __SpamTratamentoEstatísticaClassificação.ipynb:__ Notebook contento análise e classificação das mensagens
+* __stopwords.txt:__ Lista de Stopwors em inglês
 
 
 
